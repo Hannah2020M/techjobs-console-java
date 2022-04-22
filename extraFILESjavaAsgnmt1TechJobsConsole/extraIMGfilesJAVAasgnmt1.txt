@@ -20,3 +20,6 @@ What role do the double-quotes play?
 DOuble quotes bunch together the employer name, even though it has a coma
 
 The TechJobs ClassExtraImgFILEStechjobsConsoleJava
+
+
+==   7:33 PM 4/21/2022  ===+++++++++++==================
