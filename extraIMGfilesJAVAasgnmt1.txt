@@ -1,0 +1,22 @@
+12:08 AM 4/15/2022
+extraIMGfilesJAVAasgnmt1
+stored in C:\Users\h19sl\Documents\techjobs-console-java
+
+
+
+
+https://github.com/Hannah2020M/techjobs-console-java
+
+
+C:\Users\h19sl\Documents\java2022Assignments
+\Have a look at the data below line 1, and ask yourself the following questions:
+
+Which fields match up with which column names above?
+All fields
+Why do some lines/rows (e.g. line 10) have more commas than others, if commas are supposed to separate columns?
+The ame of employer has an additional comma
+
+What role do the double-quotes play?
+DOuble quotes bunch together the employer name, even though it has a coma
+
+The TechJobs ClassExtraImgFILEStechjobsConsoleJava
